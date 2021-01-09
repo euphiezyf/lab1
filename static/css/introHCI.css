@@ -51,6 +51,7 @@ img .thumbnail {
 
 div #home {
      text-decoration: none;
+     color: black;
 }
 
 div #home:visited {
